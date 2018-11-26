@@ -1,4 +1,4 @@
-Analyzing twitter stream dataset using,
+Analyzing twitter stream data using,
 - Apache nifi
 - Power BI streaming dataset
 - Apache Hive
