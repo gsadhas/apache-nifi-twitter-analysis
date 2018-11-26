@@ -13,3 +13,7 @@ The following report was created using Power BI streaming dataset. I created blo
 
 ## Search tweets
 ![alt text](https://github.com/gsadhas/apache-nifi-twitter-analysis/blob/master/images/search.png)
+
+## Hive table
+Tweets stored in HDFS is accessed via Hive queries
+![alt text](https://github.com/gsadhas/apache-nifi-twitter-analysis/blob/master/images/hive_table.png)
