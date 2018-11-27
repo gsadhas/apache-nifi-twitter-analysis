@@ -3,7 +3,7 @@ Analyzing twitter stream data using,
 - Power BI streaming dataset
 - Apache Hive
 
-The following report was created using Power BI streaming dataset. I created blog for this project, please check this link https://blog.gsadhas.com/
+The following report was created using Power BI streaming dataset. I created blog for this project, please check this link https://blog.gsadhas.com/2018/11/twitter-streaming-analysis-using-apache.html
 
 ## Report on tweets
 ![alt text](https://github.com/gsadhas/apache-nifi-twitter-analysis/blob/master/images/tweets.png)
