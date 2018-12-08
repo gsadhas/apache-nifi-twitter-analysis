@@ -22,5 +22,5 @@ Search tweets
 ![alt text](https://github.com/gsadhas/apache-nifi-twitter-analysis/blob/master/images/search.png)
 
 ## Hive table
-Tweets stored in HDFS is accessed via Hive queries
+Tweets stored in HDFS for further analysis. I built Hive table on top of HDFS files.
 ![alt text](https://github.com/gsadhas/apache-nifi-twitter-analysis/blob/master/images/hive_table.png)
